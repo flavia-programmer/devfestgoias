@@ -32,7 +32,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "mailto:centrooeste@devfest.com.br"
+c4sponsorsUrl: "mailto:flavia@idx.is"
 
 
 # Navigation
@@ -45,22 +45,22 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logística"}
  - {link: "https://developers.google.com", text: "Desenvolvedores"}
 bottomNavigationLinks:
- - {link: "https://meubilhete.com/devfestcentrooeste", text: "Inscreva-se"}
+ - {link: "https://meubilhete.com/devfestgoias", text: "Inscreva-se"}
 rightNavigationButtons:
- - {link: "https://meubilhete.com/devfestcentrooeste", text: "Inscreva-se"}
+ - {link: "https://meubilhete.com/devfestgoias", text: "Inscreva-se"}
 
 # Hero Block
 heroTitle: "GDG DevFest <typeout> 2015"
 eventDate: "26 de Setembro de 2015"
 typeoutTextValues: '"", "Goiânia", "Jataí"'
 heroButtons:
- - {url: "mailto:centrooeste@devfest.com.br", text: "Seja um patrocinador"}
- - {url: "https://meubilhete.com/devfestcentrooeste", text: "Inscreva-se"}
+ - {url: "mailto:flavia@idx.is", text: "Seja um patrocinador"}
+ - {url: "https://meubilhete.com/devfestgoias", text: "Inscreva-se"}
 
 # About Block
 aboutTitle: "Sobre o GDG DevFest"
 aboutBlock:
- - {title: "Conferência", image: "conference.jpg", text: "O maior evento do Centro-Oeste relacionado ao Google cuidadosamente elaborado para você da comunidade GDG! Palestrantes impressionantes e muita diversão!" }
+ - {title: "Conferência", image: "conference.jpg", text: "O maior evento de Goiás relacionado ao Google cuidadosamente elaborado para você da comunidade GDG! Palestrantes impressionantes e muita diversão!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Dia inteiro de workshops, hands-on, hacking e debugging. Venha domar a sua tecnologia favorita!" }
  - {title: "Happy DevFest Hour", image: "hackathon.jpg", text: "Depois de um dia inteiro de conteúdos incríveis, é hora de socializar!" }
 
@@ -80,30 +80,30 @@ rockstarSpeakersTitle: "Palestrantes rockstar"
 rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
 # Location Block
-#locationBlockTitle: "Local"
-#eventLocationName: "ACIEG"
-#eventLocationLink: "http://acieg.com.br/"
-#eventStreetAddress: "Rua 14, nº 50, Edif. Santino Lyra Pedrosa - Setor Oeste"
-#eventAddressLocality: "Goiânia"
-#eventAddressLocalityRegion: "Goiás"
-#eventPostalCode: "74120-070"
-#eventAddressCountry: "Brasil"
-#eventStartTime: "2015-10-24T08:00"
-#eventDoorTime: "08:00"
-#eventEndTime: "201-5-24T18:00"
+locationBlockTitle: "Local"
+eventLocationName: "ACIEG"
+eventLocationLink: "http://acieg.com.br/"
+eventStreetAddress: "Rua 14, nº 50, Edif. Santino Lyra Pedrosa - Setor Oeste"
+eventAddressLocality: "Goiânia"
+eventAddressLocalityRegion: "Goiás"
+eventPostalCode: "74120-070"
+eventAddressCountry: "Brasil"
+eventStartTime: "2015-10-24T08:00"
+eventDoorTime: "08:00"
+eventEndTime: "201-5-24T18:00"
 #eventPlaceCoordinates: "-16.687698,-49.261967"
 #mapCenterCoordinates: "-16.687698,-49.261967"
 #mapMobileCenterCoordinates: "-16.687698,-49.261967"
 
 # Venue Block
-#venueBlockTitle: "Venue"
+#venueBlockTitle: "Ve jekyll serve -wnue"
 #venueTitle: "Kinopalace Cinema"
 #venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedTitle: "Quais as novidades?"
-twitterHashTag: "devfestcentrooeste"
-twitterFeed: "https://twitter.com/search?q=%23devfestcentrooeste"
+twitterHashTag: "devfestgoias"
+twitterFeed: "https://twitter.com/search?q=%23devfestgoias"
 
 # Partners Block
 partnersTitle: "Parceiros"
@@ -115,7 +115,7 @@ organizersTitle: "Organizadores"
 # Subscribe Block
 subscribeTitle: "Inscreva-se para as novidades"
 subscribeAction: "//futuring.us2.list-manage.com/subscribe/post?u=08f734455c7b9954657ae3d19&amp;id=85c285f94a"
-subscribeInfo: "O DevFest Centro-Oeste não enviará spam ao seu email. Todas as comunicações serão sobre o evento."
+subscribeInfo: "O DevFest Goiás não enviará spam ao seu email. Todas as comunicações serão sobre o evento."
 
 # Buy Tickets Block
 buyTicketsTitle: "Inscrições"
@@ -123,11 +123,11 @@ ticketsOffers:
  -
   name: "Ingresso"
   price: "R$ 50"
-  buyButtonLink: "https://meubilhete.com/devfestcentrooeste"
+  buyButtonLink: "https://meubilhete.com/devfestgoias"
   buyButtonText: "Compre agora"
-  ticketContentList: ["Trilha Web e Mobile", "Brindes", "Diversão"]
+  ticketContentList: ["Android", "Cloud Computing", "HTML5/Chrome", "Google APIs"]
   validFrom: "2015-08-29T10:00"
-  validThrough: "201-09-27T23:59"
+  validThrough: "2015-09-27T23:59"
 # -
 #  name: "3 days"
 #  price: "$180"
@@ -162,7 +162,7 @@ footerBlocks:
  -
   title: "Contatos"
   links:
-   - {link: "mailto:centrooeste@devfest.com.br", text: "centrooeste@devfest.com.br"}
+   - {link: "mailto:flavia@idx.is, text: "flavia@idx.is"}
 # -
 #  title: "FAQ"
 #  links:
