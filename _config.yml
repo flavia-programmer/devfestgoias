@@ -40,7 +40,7 @@ c4sponsorsUrl: "mailto:flavia@idx.is"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Agenda"}
+# - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Palestrantes"}
 # - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "Logística"}
