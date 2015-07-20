@@ -162,7 +162,7 @@ footerBlocks:
  -
   title: "Contatos"
   links:
-   - {link: "mailto:flavia@idx.is, text: "flavia@idx.is"}
+   - {link: "mailto:flavia@idx.is", text: "flavia@idx.is"}
 # -
 #  title: "FAQ"
 #  links:
