@@ -33,7 +33,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "mailto:flavia@idx.is"
+c4sponsorsUrl: "mailto:contato@devfestgoias.com.br"
 
 
 # Navigation
@@ -56,7 +56,7 @@ heroTitle: "GDG DevFest <typeout> 2015"
 eventDate: "26 de Setembro de 2015"
 typeoutTextValues: '"Goiás", "Goiânia", "Jataí"'
 heroButtons:
- - {url: "mailto:flavia@idx.is", text: "Seja um patrocinador"}
+ - {url: "mailto:contato@devfestgoias.com.br", text: "Seja um patrocinador"}
  - {url: "https://meubilhete.com/devfestgoias", text: "Inscreva-se"}
 
 # About Block
@@ -164,7 +164,7 @@ footerBlocks:
  -
   title: "Contatos"
   links:
-   - {link: "mailto:flavia@idx.is", text: "flavia@idx.is"}
+   - {link: "mailto:contato@devfestgoias.com.br", text: "contato@devfestgoias.com.br"}
 # -
 #  title: "FAQ"
 #  links:
