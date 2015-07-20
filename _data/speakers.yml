@@ -31,18 +31,17 @@
     - {name: "google-plus", link: ""}
     - {name: "github", link: ""}
 -
-  id: 3
-  name: "EM BREVE"
-  surname: ""
-  company: ""
+  id: 4
+  name: "Marcelo"
+  surname: "Quinta"
+  company: "UFG"
   title: ""
-  bio: ""
-  thumbnailUrl: ''
+  bio: 'Desenvolvedor móvel (principalmente Android e iOS), atua como professor em Engenharia de Software na UFG, pesquisador no Media Lab, e de vez em quando se arrisca em trabalhar UX. Já fez muitos aplicativos, que rodam desde o STF até a China. Na comunidade, coordenada o GDG Goiânia e participa do GOJava.É um dos Intel Innovators do Brasil, atuando na área Android.'
+  thumbnailUrl: marcelo-quinta.jpg
   rockstar: true
   ribbon:
-    - {abbr: "", title: "", url: ""}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
-    - {name: "linkedin", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "google-plus", link: ""}
-    - {name: "github", link: ""}
+    - {name: "google-plus", link: "https://plus.google.com/+MarceloQuinta"}
+    - {name: "twitter", link: "https://twitter.com/mrquinta"}
+    - {name: "github", link: "https://github.com/marceloquinta"}
