@@ -1,0 +1,178 @@
+-
+  id: 1
+  name: "Alê"
+  surname: "Borba"
+  company: "Google"
+  title: "Community Manager"
+  bio: "Community Manager focado em comunidades técnicas e de desenvolvedores. Trabalhando pesado para que todas essas comunidades cresçam. Além disso, um apaixonado por acessibilidade em geral, principalmente web, que realmente acredita que a tecnologia veio para ajudar cada vez mais as pessoas."
+  thumbnailUrl: ale-borba.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Googler", title: "Googler", url: "https://plus.google.com/+Al%C3%AABorba/about"}
+  social:
+    - {name: "linkedin", link: "http://br.linkedin.com/in/alexandrealvesborba"}
+    - {name: "twitter", link: "https://twitter.com/ale_borba"}
+    - {name: "google-plus", link: "https://plus.google.com/+Al%C3%AABorba"}
+    - {name: "github", link: "https://github.com/aleborba"}
+-
+  id: 2
+  name: "Nelson"
+  surname: "Glauber"
+  company: "C.E.S.A.R."
+  title: "System Enginner"
+  bio: "Google Developer Expert de Android nomeado pelo Google em 2014. Trabalhando desde 2006 com mobile, desenvolvendo jogos e aplicativos. Mestrado em Engenharia de Software na CESAR.edu. Professor de desenvolvimento mobile em cursos de graduação e pós-graduação."
+  thumbnailUrl: nelson-glauber.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nglaubervasc"}
+    - {name: "twitter", link: "https://twitter.com/nglauber"}
+    - {name: "google-plus", link: "https://plus.google.com/+NelsonGlauber"}
+    - {name: "github", link: "https://github.com/nglauber"}
+-
+  id: 3
+  name: "Luís"
+  surname: "Leão"
+  company: "GDG SP"
+  title: ""
+  bio: "Criador do @sms2blog, nerd, desenvolvedor (web/mobile), apaixonado por Arduino e AppEngine e fotógrafo nas horas vagas."
+  thumbnailUrl: luis-leao.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "http://br.linkedin.com/in/luisleao"}
+-
+  id: 4
+  name: "Marcelo"
+  surname: "Quinta"
+  company: "UFG"
+  title: ""
+  bio: 'Desenvolvedor móvel (principalmente Android e iOS), atua como professor em Engenharia de Software na UFG, pesquisador no Media Lab, e de vez em quando se arrisca em trabalhar UX. Já fez muitos aplicativos, que rodam desde o STF até a China. Na comunidade, coordenada o GDG Goiânia e participa do GOJava.É um dos Intel Innovators do Brasil, atuando na área Android.'
+  thumbnailUrl: marcelo-quinta.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MarceloQuinta"}
+    - {name: "twitter", link: "https://twitter.com/mrquinta"}
+    - {name: "github", link: "https://github.com/marceloquinta"}
+-
+  id: 5
+  name: "Jean Lucas"
+  surname: "de Carvalho"
+  company: "Futuring"
+  title: ""
+  bio: "Desenvolvedor Frontend com foco na experiência do usuário e entusiasta de tecnologias Frontend, sendo um dos Organizadores do GDG Goiânia e criador do Frontend Goiás. Tendo palestrado em eventos como: Android Bootcamp, FLISOL, Join Community e GoGDG."
+  thumbnailUrl: jean-lucas.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/JeanLucasCarvalho"}
+    - {name: "twitter", link: "https://twitter.com/JLCarv"}
+    - {name: "github", link: "https://github.com/jlcarvalho"}
+-
+  id: 6
+  name: "Fernando"
+  surname: "Camargo"
+  company: "Fibonacci Soluções Ágeis"
+  title: ""
+  bio: "Fernando Henrique Fernandes de Camargo (fernando.camargo.ti@gmail.com) é desenvolvedor Java EE, Android, Grails, Node.js e de front-end web. Atualmente é graduando em Engenharia de Computação na UFG e desenvolvedor na Fibonacci Soluções Ágeis. Desenvolve em Java desde 2009 e para Android desde 2012. Possui OCJP6, um artigo publicado na easy Java Magazine, quatro publicados na Java Magazine, além de palestras e minicursos apresentados em eventos. Participou do primeiro App Clinic realizado na sede do Google no Brasil representando o aplicativo Soongz da Fibonacci Soluções Ágeis."
+  thumbnailUrl: fernando-camargo.jpg
+  rockstar: false
+-
+  id: 7
+  name: "Mario"
+  surname: "Busato"
+  company: "MediaLab"
+  title: ""
+  bio: ""
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+-
+  id: 8
+  name: "Victor"
+  surname: "Silva"
+  company: "MediaLab"
+  title: ""
+  bio: ""
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+-
+  id: 9
+  name: "Guilherme"
+  surname: "Rezende"
+  company: "Campus Party"
+  title: ""
+  bio: "Desenvolvedor  apaixonado por Python e Go, já trabalhou como Analista de Segurança e Engenheiro de Software Embarcado. Membro da Associação Python Brasil, é Diretor de Tecnologia na IPsafe e Engenheiro de Software e DevOps na Futura Networks, empresa sediada em Madrid criadora da Campus Party."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "http://linkedin.com/in/guilhermerezende/"}
+    - {name: "twitter", link: "https://twitter.com/gbrezende"}
+    - {name: "github", link: "https://github.com/guilhermebr"}
+-
+  id: 10
+  name: "Paulo"
+  surname: "Edson"
+  company: ""
+  title: ""
+  bio: "Nascido em São Paulo, Paulo Edson sempre foi interessado pelo compartilhamento de conhecimento. Em 2001, deu suas primeiras aulas como professor para um curso preparatório para o vestibular direcionado a jovens em situação de vulnerabilidade social. Desde sua Graduação em Direito em 2006, tem se dedicado ao ensino de línguas e a aprender mais sobre uma de suas paixões, a tecnologia da informação, por meio do Coursera, do Codecademy e da 'Biblioteca do Paulo Coelho'. Atualmente sua vida virtual divide-se entre o desenvolvimento do @PhonomenalLabs e o compartilhamento de conhecimento acerca das tecnologias vestíveis. Com o objetivo de levar informação ao público de maneira a fomentar uma sociedade cada vez mais conectada e consciente de suas responsabilidades, tem utilizado de sua experiência no setor público e como advogado, para apresentar uma nova perspectiva acerca da inovação e da tecnologia da informação aplicados às diversas formas de tecnologia móvel e vestível."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/@p4ulo3dson"}
+-
+  id: 12
+  name: "Walison"
+  surname: "Moreira"
+  company: "PC Sistemas"
+  title: ""
+  bio: "Gerente de Desenvolvimento na PC Sistemas e professor da UFG."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+-
+  id: 13
+  name: "Aluízio"
+  surname: "Araújo"
+  company: "Planalto Informática"
+  title: "Desenvolvedor Android"
+  bio: ""
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+-
+  id: 14
+  name: "Adriano"
+  surname: "Muhammad"
+  company: "Rede Omnia"
+  title: "Jornalista"
+  bio: ""
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+-
+  id: 16
+  name: "Sheldon"
+  surname: "Led"
+  company: "Led Labs"
+  title: ""
+  bio: ""
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+-
+  id: 17
+  name: "A confirmar"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+-
+  id: 18
+  name: "Felipe"
+  surname: "Leonhardt"
+  company: "Vision Tecnologia"
+  title: ""
+  bio: "Desenvolvedor a 15 anos trabalhou em grandes projetos com imensa diversidade tecnológica desde a construção de projetos multimídia em CD-ROM/DVD, Desktop, Web e Mobile. Atualmente é dono da Vision Tecnologia que está focada em treinamentos, consultorias e desenvolvimento Web/Mobile."
+  thumbnailUrl: felipe-leonhardt.jpg
+  rockstar: false

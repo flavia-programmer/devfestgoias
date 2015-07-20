@@ -1,0 +1,62 @@
+-
+  date: "2014-09-27"
+  dateReadable: "27 de Setembro"
+  tracks:
+    - {title: "Sala Ada Byron", color: "#90be4e"}
+    - {title: "Sala Alan Turing", color: "#03a9f4"}
+  timeslots:
+    - {
+      startTime: "08:00",
+      endTime: "08:40",
+      sessionIds: [306]
+    }
+    - {
+        startTime: "08:40",
+        endTime: "09:00",
+        sessionIds: [307]
+      }
+    - {
+        startTime: "09:00",
+        endTime: "09:50",
+        sessionIds: [007]
+      }
+    - {
+        startTime: "10:00",
+        endTime: "10:50",
+        sessionIds: [001, 005]
+      }
+    - {
+        startTime: "11:00",
+        endTime: "11:50",
+        sessionIds: [003, 012]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "13:30",
+    	sessionIds: [308]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "14:20",
+        sessionIds: [006, 011]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:20",
+        sessionIds: [014, 015]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:20",
+        sessionIds: [008, 009]
+    }
+    - {
+        startTime: "16:30",
+        endTime: "17:20",
+        sessionIds: [002, 004]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
+        sessionIds: [309]
+    }

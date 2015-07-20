@@ -1,0 +1,219 @@
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
+
+
+# Site Settings
+title: "DevFest Goiás 2015"
+email: "contato@devfestcentrooeste.com.br"
+description: "GDG DevFest é um dos maiores evento do mundo"
+baseurl: ""
+#url: "http://devfestcentrooeste.com.br/"
+url: "http://127.0.0.1:4000/"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+
+# Organizer Info
+organizerName: "GDG Goiânia"
+organizerAlternateName: "Google Developer Group Goiânia"
+organizerDescription: ""
+organizerEmail: "lviv@gdg.org.ua"
+organizerLogo: "/img/organizers/logo-gdggyn.png"
+organizerLink: "http://go.gtugs.org/"
+
+# Head
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers"
+twitterAccount: "@DevFest"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pUrl: "http://bit.ly/dfua-c4p"
+c4sponsorsUrl: "mailto:centrooeste@devfest.com.br"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
+# - {permalink: "/team/", text: "Equipe"}
+ - {permalink: "/logistics/", text: "Logística"}
+ - {link: "https://developers.google.com", text: "Desenvolvedores"}
+bottomNavigationLinks:
+ - {link: "https://meubilhete.com/devfestcentrooeste", text: "Inscreva-se"}
+rightNavigationButtons:
+ - {link: "https://meubilhete.com/devfestcentrooeste", text: "Inscreva-se"}
+
+# Hero Block
+heroTitle: "GDG DevFest <typeout> 2015"
+eventDate: "26 de Setembro de 2015"
+typeoutTextValues: '"", "Goiânia", "Jataí"'
+heroButtons:
+ - {url: "mailto:centrooeste@devfest.com.br", text: "Seja um patrocinador"}
+ - {url: "https://meubilhete.com/devfestcentrooeste", text: "Inscreva-se"}
+
+# About Block
+aboutTitle: "Sobre o GDG DevFest"
+aboutBlock:
+ - {title: "Conferência", image: "conference.jpg", text: "O maior evento do Centro-Oeste relacionado ao Google cuidadosamente elaborado para você da comunidade GDG! Palestrantes impressionantes e muita diversão!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Dia inteiro de workshops, hands-on, hacking e debugging. Venha domar a sua tecnologia favorita!" }
+ - {title: "Happy DevFest Hour", image: "hackathon.jpg", text: "Depois de um dia inteiro de conteúdos incríveis, é hora de socializar!" }
+
+# Statistic Block
+statisticBlock:
+ - {count: "250", specialCharacter: "+", info: "participantes", detail: "de todo Brasil"}
+ - {count: "12", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
+ - {count: "16", specialCharacter: "+", info: "palestrantes", detail: "de todo Brasil"}
+ - {count: "2", specialCharacter: "", info: "trilhas paralelas", detail: "mais lounge de entretenimento"}
+
+# Latest News Block
+latestNewsTitle: "Últimas notícias"
+
+# Rockstar Speakers Block
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Palestrantes rockstar"
+rockstarSpeakersButtonText: "Veja todos os palestrantes"
+
+# Location Block
+#locationBlockTitle: "Local"
+#eventLocationName: "ACIEG"
+#eventLocationLink: "http://acieg.com.br/"
+#eventStreetAddress: "Rua 14, nº 50, Edif. Santino Lyra Pedrosa - Setor Oeste"
+#eventAddressLocality: "Goiânia"
+#eventAddressLocalityRegion: "Goiás"
+#eventPostalCode: "74120-070"
+#eventAddressCountry: "Brasil"
+#eventStartTime: "2015-10-24T08:00"
+#eventDoorTime: "08:00"
+#eventEndTime: "201-5-24T18:00"
+#eventPlaceCoordinates: "-16.687698,-49.261967"
+#mapCenterCoordinates: "-16.687698,-49.261967"
+#mapMobileCenterCoordinates: "-16.687698,-49.261967"
+
+# Venue Block
+#venueBlockTitle: "Venue"
+#venueTitle: "Kinopalace Cinema"
+#venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+
+# Tweets Feed Block
+tweetsFeedTitle: "Quais as novidades?"
+twitterHashTag: "devfestcentrooeste"
+twitterFeed: "https://twitter.com/search?q=%23devfestcentrooeste"
+
+# Partners Block
+partnersTitle: "Parceiros"
+partnersC4sponsorsButton: "Seja um patrocinador"
+
+# Organizers Block
+organizersTitle: "Organizadores"
+
+# Subscribe Block
+subscribeTitle: "Inscreva-se para as novidades"
+subscribeAction: "//futuring.us2.list-manage.com/subscribe/post?u=08f734455c7b9954657ae3d19&amp;id=85c285f94a"
+subscribeInfo: "O DevFest Centro-Oeste não enviará spam ao seu email. Todas as comunicações serão sobre o evento."
+
+# Buy Tickets Block
+buyTicketsTitle: "Inscrições"
+ticketsOffers:
+ -
+  name: "Ingresso"
+  price: "R$ 50"
+  buyButtonLink: "https://meubilhete.com/devfestcentrooeste"
+  buyButtonText: "Compre agora"
+  ticketContentList: ["Trilha Web e Mobile", "Brindes", "Diversão"]
+  validFrom: "2015-08-29T10:00"
+  validThrough: "201-09-27T23:59"
+# -
+#  name: "3 days"
+#  price: "$180"
+#  ribbon: "-20%"
+#  featured: true
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-20T10:00"
+#  validThrough: "2014-10-23T23:59"
+# -
+#  name: "2 days"
+#  price: "$150"
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-20T10:00"
+#  validThrough: "2014-10-23T23:59"
+
+# Footer
+socialLinks:
+# - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+# - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+# - {link: "http://localhost:4000/zeppelin/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://devfest.com.br", text: "DevFest Brasil"}
+ -
+  title: "Contatos"
+  links:
+   - {link: "mailto:centrooeste@devfest.com.br", text: "centrooeste@devfest.com.br"}
+# -
+#  title: "FAQ"
+#  links:
+#   - {permalink: "http://localhost:4000/zeppelin/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Últimas notícias"
+blogCommentsEnabled: true
+discusShortName: "devfestua"
+
+# Speakers List Block
+showSessions: true
+thumbnailsFolder: /img/speakers/
+
+# Team Block
+teamBlockTitle: "Sobre nós"
+aboutUs: "Ferramentas e produtos do Google se tornaram sinônimo de produtividade e desempenho no mundo online. O número de inovações tecnológicas e indústrias de TI em que o Google está criando novas ferramentas e produtos é enorme. É difícil conhecer todos eles. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilharam a sua experiência com tais produtos. Mais tarde, os seguintes grupos foram chamados Grupos de Desenvolvedores do Google. GDGs podem assumir muitas formas - de apenas algumas pessoas que se juntam para assistir alguns vídeos, para grandes encontros com demonstrações, palestras técnicas, hackathons e conferências."
+
+# Logistics Find Way Block
+findWayTitle: "Encontre seu caminho"
+logisticsMapCenterCoordinates: "-16.687698,-49.261967"
+logisticsMapMobileCenterCoordinates: "-16.687698,-49.261967"
+
+# Logistics Direction Details Block
+directionDetailsTitle: "Conheça Goiânia"
+directionDetailsCards:
+ - {title: "Do Aeroporto", information: 'O aeroporto é bem próximo. É facilmente acessível por carro, ônibus ou taxi. Mais informações estarão disponíveis em breve.'}
+ - {title: "De ônibus", information: 'Goiânia é uma cidade acessível. Qualquer dúvida, fale conosco.'}
+ - {title: "Hotéis", information: 'Próximo à ACIEG existem vários hotéis e pousadas disponíveis vizinho ao evento. Mais informações em breve.'}
+directionDetailsWideCards:
+ -
+  title: "Perguntas?"
+  subCards:
+   -
+    title: "Hotéis"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Inscrições"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Detalhes para participantes"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}

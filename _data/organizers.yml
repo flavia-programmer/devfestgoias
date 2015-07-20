@@ -1,0 +1,7 @@
+-
+  group: "Google Developer Groups"
+  elements:
+    - {name: "GDG Brasília", description: "GDG Brasília - Comunidade para os apaixonados desenvolvedores que usam as tecnologias de Google como Android, Google APIs, GWT, App Engine e outras.", link: "https://plus.google.com/101378728126520052592", imageUrl: "GDG_Brasilia.svg"}
+    - {name: "GDG Campo Grande", description: "GDG Campo Grande - Grupo criado para fomentar o uso de tecnologias Google, aproximar programadores do estado de Mato Grosso do Sul e compartilhar conhecimento.", link: "https://plus.google.com/116383758439355750154", imageUrl: "GDG_Campo Grande.svg"}
+    - {name: "GDG Goiânia", description: "GDG Goiânia - Comunidade de pessoas interessadas nas tecnologias de desenvolvimento da Google.", link: "https://plus.google.com/113297226237632387507", imageUrl: "logo-gdggyn.png"}
+#    - {name: "GDG Palmas", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.png"}
