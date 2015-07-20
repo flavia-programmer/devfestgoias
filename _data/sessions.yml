@@ -18,123 +18,123 @@
   title: "Encerramento e Brindes"
   place: ""
   service: true
--
-  id: 001
-  title: "Wearables e internet das coisas"
-  description: ""
-  subtype: presentation
-  speakers: [3]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 002
-  title: "Aplicativos Híbridos com AngularJS & Ionic Framework"
-  description: "O Ionic Framework simplifica o desenvolvimento de aplicações móveis híbridas. Com sua grande quantidade de elementos de interface mobile, o Ionic é capaz de auxiliar um desenvolvedor experiente a criar um aplicativo mobile em poucos minutos. Mas por onde começar?"
-  subtype: presentation
-  speakers: [5]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 003
-  title: "O que você poderia ou deveria utilizar para o desenvolvimento Android"
-  description: ""
-  subtype: presentation
-  speakers: [4]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 004
-  title: "Material design"
-  description: ""
-  subtype: presentation
-  speakers: [7, 8]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 005
-  title: "Webservices em GO"
-  description: ""
-  subtype: presentation
-  speakers: [9]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 006
-  title: "Através do Glass"
-  description: ""
-  subtype: presentation
-  speakers: [10]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 007
-  title: "Google Cloud Platform"
-  description: ""
-  subtype: keynote
-  speakers: [1]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 008
-  title: "Android Wear"
-  description: ""
-  subtype: presentation
-  speakers: [2]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 009
-  title: "Trabalhando com APIs do Google"
-  description: ""
-  subtype: presentation
-  speakers: [12]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 010
-  title: "Começando com Android"
-  description: ""
-  subtype: presentation
-  speakers: [13]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 011
-  title: "Ferramentas Google para melhoria do posicionamento de seu site"
-  description: ""
-  subtype: presentation
-  speakers: [14, 15]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 012
-  title: "Web Audio API  - Faça música com o navegador"
-  description: ""
-  subtype: presentation
-  speakers: [16]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 013
-  title: "A confirmar"
-  description: ""
-  subtype: presentation
-  speakers: [17]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 014
-  title: "AngularJS Essencial"
-  description: "AngularJS permite simplificar o desenvolvimento HTML/JS de sua aplicação web trazendo um resultado extraordinariamente expressivo e rápido para desenvolver. Nessa palestra vamos mostrar o melhor caminho para iniciar pequenas ou grandes aplicações."
-  subtype: presentation
-  speakers: [18]
-  language: pt-BR
-  complexity: "Iniciante"
--
-  id: 015
-  title: "Dagger: injeção de dependências com alta performance"
-  description: "Injeção de dependência (DI) ou Inversão de Controle (IoC) é um padrão de projeto que se tornou amplamente utilizado e conhecido, sendo muito utilizado para desacoplar os elementos de uma aplicação. No Java, dois frameworks se tornaram muito utilizados: Spring e Guice. Porém, ambos fazem grande uso de reflexão, o que gera certo prejuízo de performance. Nesse contexto, principalmente para aplicações Android, foi criada a biblioteca Dagger. Seu grande diferencial é reduzir o uso de reflexão e passar parte do trabalho para tempo de compilação, trazendo grande ganho de performance e se tornando mais apropriada para dispositivos móveis. Em uma futura versão a ser criada pelo Google, a reflexão será reduzida a zero e a performance alcançada será a máxima."
-  subtype: presentation
-  speakers: [6]
-  language: pt-BR
-  complexity: "Iniciante"
+# -
+#   id: 001
+#   title: "Wearables e internet das coisas"
+#   description: ""
+#   subtype: presentation
+#   speakers: [3]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 002
+#   title: "Aplicativos Híbridos com AngularJS & Ionic Framework"
+#   description: "O Ionic Framework simplifica o desenvolvimento de aplicações móveis híbridas. Com sua grande quantidade de elementos de interface mobile, o Ionic é capaz de auxiliar um desenvolvedor experiente a criar um aplicativo mobile em poucos minutos. Mas por onde começar?"
+#   subtype: presentation
+#   speakers: [5]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 003
+#   title: "O que você poderia ou deveria utilizar para o desenvolvimento Android"
+#   description: ""
+#   subtype: presentation
+#   speakers: [4]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 004
+#   title: "Material design"
+#   description: ""
+#   subtype: presentation
+#   speakers: [7, 8]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 005
+#   title: "Webservices em GO"
+#   description: ""
+#   subtype: presentation
+#   speakers: [9]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 006
+#   title: "Através do Glass"
+#   description: ""
+#   subtype: presentation
+#   speakers: [10]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 007
+#   title: "Google Cloud Platform"
+#   description: ""
+#   subtype: keynote
+#   speakers: [1]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 008
+#   title: "Android Wear"
+#   description: ""
+#   subtype: presentation
+#   speakers: [2]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 009
+#   title: "Trabalhando com APIs do Google"
+#   description: ""
+#   subtype: presentation
+#   speakers: [12]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 010
+#   title: "Começando com Android"
+#   description: ""
+#   subtype: presentation
+#   speakers: [13]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 011
+#   title: "Ferramentas Google para melhoria do posicionamento de seu site"
+#   description: ""
+#   subtype: presentation
+#   speakers: [14, 15]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 012
+#   title: "Web Audio API  - Faça música com o navegador"
+#   description: ""
+#   subtype: presentation
+#   speakers: [16]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 013
+#   title: "A confirmar"
+#   description: ""
+#   subtype: presentation
+#   speakers: [17]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 014
+#   title: "AngularJS Essencial"
+#   description: "AngularJS permite simplificar o desenvolvimento HTML/JS de sua aplicação web trazendo um resultado extraordinariamente expressivo e rápido para desenvolver. Nessa palestra vamos mostrar o melhor caminho para iniciar pequenas ou grandes aplicações."
+#   subtype: presentation
+#   speakers: [18]
+#   language: pt-BR
+#   complexity: "Iniciante"
+# -
+#   id: 015
+#   title: "Dagger: injeção de dependências com alta performance"
+#   description: "Injeção de dependência (DI) ou Inversão de Controle (IoC) é um padrão de projeto que se tornou amplamente utilizado e conhecido, sendo muito utilizado para desacoplar os elementos de uma aplicação. No Java, dois frameworks se tornaram muito utilizados: Spring e Guice. Porém, ambos fazem grande uso de reflexão, o que gera certo prejuízo de performance. Nesse contexto, principalmente para aplicações Android, foi criada a biblioteca Dagger. Seu grande diferencial é reduzir o uso de reflexão e passar parte do trabalho para tempo de compilação, trazendo grande ganho de performance e se tornando mais apropriada para dispositivos móveis. Em uma futura versão a ser criada pelo Google, a reflexão será reduzida a zero e a performance alcançada será a máxima."
+#   subtype: presentation
+#   speakers: [6]
+#   language: pt-BR
+#   complexity: "Iniciante"

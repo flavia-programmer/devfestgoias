@@ -24,7 +24,7 @@
   thumbnailUrl: ''
   rockstar: true
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "", title: "", url: ""}
   social:
     - {name: "linkedin", link: ""}
     - {name: "twitter", link: ""}
@@ -40,7 +40,7 @@
   thumbnailUrl: ''
   rockstar: true
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "", title: "", url: ""}
   social:
     - {name: "linkedin", link: ""}
     - {name: "twitter", link: ""}
