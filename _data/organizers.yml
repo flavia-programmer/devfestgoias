@@ -3,4 +3,4 @@
   elements:
     - {name: "GDG Goiânia", description: "GDG Goiânia - Comunidade de pessoas interessadas nas tecnologias de desenvolvimento da Google.", link: "https://plus.google.com/113297226237632387507", imageUrl: "logo-gdggyn.png"}
 
-    - {name: "GDG Jataí", description: "GDG Jataí - Comunidade para os apaixonados desenvolvedores que usam as tecnologias de Google como Android, Google APIs, GWT, App Engine e outras.", link: "https://plus.google.com/110713691557973376450", imageUrl: "GDG_Jatai.svg"}
+    - {name: "GDG Jataí", description: "GDG Jataí - Comunidade para os apaixonados desenvolvedores que usam as tecnologias de Google como Android, Google APIs, GWT, App Engine e outras.", link: "https://plus.google.com/110713691557973376450", imageUrl: "logo-gdgjatai.png"}
