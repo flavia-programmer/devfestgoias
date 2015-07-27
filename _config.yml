@@ -56,8 +56,10 @@ heroTitle: "GDG DevFest <typeout> 2015"
 eventDate: "26 de Setembro de 2015"
 typeoutTextValues: '"Goiás", "Goiânia", "Jataí"'
 heroButtons:
+ - {url: "http://bit.ly/c4pdevfestgoias2015", text: "Seja um palestrante"}
  - {url: "mailto:contato@devfestgoias.com.br", text: "Seja um patrocinador"}
  - {url: "https://meubilhete.com/devfestgoias", text: "Inscreva-se"}
+ 
 
 # About Block
 aboutTitle: "Sobre o GDG DevFest"
@@ -127,7 +129,7 @@ ticketsOffers:
   price: "R$ 50"
   buyButtonLink: "https://meubilhete.com/devfestgoias"
   buyButtonText: "Compre agora"
-  ticketContentList: ["Android", "Cloud Computing", "HTML5/Chrome", "Google APIs"]
+  ticketContentList: ["Camiseta", "Kit de boas vindas", "Brinde surpresa", "Café-da-manhã", "Coffee-break da tarde"]
   validFrom: "2015-08-29T10:00"
   validThrough: "2015-09-27T23:59"
 # -
