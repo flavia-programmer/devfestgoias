@@ -129,7 +129,7 @@ ticketsOffers:
   price: "R$ 50"
   buyButtonLink: "https://meubilhete.com/devfestgoias"
   buyButtonText: "Compre agora"
-  ticketContentList: ["Camiseta", "Kit de boas vindas", "Brinde surpresa", "Café-da-manhã", "Coffee-break da tarde"]
+  ticketContentList: ["Camiseta", "Kit de boas vindas", "Brinde surpresa", "Café-da-manhã", "Coffee-break da tarde", "Android", "Wearables", "Tecnologias Web (Angular, HTML5, Polymer)", "Chrome", "APIs", "Google para iOS", "Internet das Coisas", "Google Apps/Drive", "Google Maps", "Google Analytics", "Google Cloud Platform", "Google Ads", "UX ou Estratégia de produtos"]
   validFrom: "2015-08-29T10:00"
   validThrough: "2015-09-27T23:59"
 # -
