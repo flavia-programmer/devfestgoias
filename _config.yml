@@ -127,8 +127,8 @@ ticketsOffers:
  -
   name: "Ingresso"
   price: "R$ 50"
-  buyButtonLink: "https://meubilhete.com/devfestgoias"
-  buyButtonText: "Compre agora"
+  buyButtonLink: ""
+  buyButtonText: "Inscrições em breve"
   ticketContentList: ["Camiseta", "Kit de boas vindas", "Brinde surpresa", "Café-da-manhã", "Coffee-break da tarde"]
   validFrom: "2015-08-29T10:00"
   validThrough: "2015-09-27T23:59"
@@ -195,7 +195,7 @@ directionDetailsTitle: "Conheça Goiânia"
 directionDetailsCards:
  - {title: "Do Aeroporto", information: 'O aeroporto é bem próximo. É facilmente acessível por carro, ônibus ou taxi. Mais informações estarão disponíveis em breve.'}
  - {title: "De ônibus", information: 'Goiânia é uma cidade acessível. Qualquer dúvida, fale conosco.'}
- - {title: "Hotéis", information: 'Próximo à ACIEG existem vários hotéis e pousadas disponíveis vizinho ao evento. Mais informações em breve.'}
+ - {title: "Hotéis", information: 'Mais informações em breve.'}
 directionDetailsWideCards:
  -
   title: "Perguntas?"
