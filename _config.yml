@@ -53,7 +53,7 @@ rightNavigationButtons:
 # Hero Block
 heroTitle: "GDG DevFest <typeout> 2015"
 eventDate: "26 de Setembro de 2015"
-typeoutTextValues: '"Goiás"
+typeoutTextValues: '"Goiás"'
 heroButtons:
  - {url: "http://bit.ly/c4pdevfestgoias2015", text: "Seja um palestrante"}
  - {url: "mailto:contato@devfestgoias.com.br", text: "Seja um patrocinador"}
