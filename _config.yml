@@ -6,12 +6,11 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "DevFest Goiás 2015"
-email: "contato@devfestcentrooeste.com.br"
+email: "contato@devfestgoias.com.br"
 description: "GDG DevFest é um dos maiores evento do mundo"
 baseurl: "/devfestgoias"
-#url: "http://devfestcentrooeste.com.br/"
-#url: "http://127.0.0.1:4000/"
-url: "http://bruno-rodrigues.github.io/devfestgoias/"
+url: "http://devfestgoias.com.br/"
+# url: "http://bruno-rodrigues.github.io/devfestgoias/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -54,7 +53,7 @@ rightNavigationButtons:
 # Hero Block
 heroTitle: "GDG DevFest <typeout> 2015"
 eventDate: "26 de Setembro de 2015"
-typeoutTextValues: '"Goiás", "Goiânia", "Jataí"'
+typeoutTextValues: '"Goiás"
 heroButtons:
  - {url: "http://bit.ly/c4pdevfestgoias2015", text: "Seja um palestrante"}
  - {url: "mailto:contato@devfestgoias.com.br", text: "Seja um patrocinador"}
