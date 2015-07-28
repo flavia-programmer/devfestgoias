@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "DevFest Goiás 2015"
 email: "contato@devfestgoias.com.br"
 description: "GDG DevFest é um dos maiores evento do mundo"
-baseurl: "/devfestgoias"
+baseurl: ""
 url: "http://devfestgoias.com.br/"
 # url: "http://bruno-rodrigues.github.io/devfestgoias/"
 permalink: "/blog/:title"
