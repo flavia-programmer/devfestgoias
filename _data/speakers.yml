@@ -14,22 +14,7 @@
     - {name: "twitter", link: "https://twitter.com/netomarin"}
     - {name: "google-plus", link: "https://plus.google.com/+NetoMarin"}
     - {name: "github", link: "https://github.com/netomarin"}
--
-  id: 2
-  name: "EM BREVE"
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: ''
-  rockstar: true
-  ribbon:
-    - {abbr: "", title: "", url: ""}
-  social:
-    - {name: "linkedin", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "google-plus", link: ""}
-    - {name: "github", link: ""}
+
 -
   id: 4
   name: "Marcelo"

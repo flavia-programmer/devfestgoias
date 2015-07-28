@@ -65,21 +65,21 @@ heroButtons:
 aboutTitle: "Sobre o GDG DevFest"
 aboutBlock:
  - {title: "Conferência", image: "conference.jpg", text: "O maior evento de Goiás relacionado ao Google cuidadosamente elaborado para você da comunidade GDG! Palestrantes impressionantes e muita diversão!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Dia inteiro de workshops, hands-on, hacking e debugging. Venha domar a sua tecnologia favorita!" }
- - {title: "Happy DevFest Hour", image: "hackathon.jpg", text: "Depois de um dia inteiro de conteúdos incríveis, é hora de socializar!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Dia inteiro de temas voltados para Android, Wearables, Tecnologias Web (Angular, HTML5, Polymer), Chrome, APIs, Google para iOS, Internet das Coisas, Google Apps/Drive, Google Maps, Google Analytics, Google Cloud Platform, Google Ads, UX ou Estratégia de produtos." }
+ # - {title: "Happy DevFest Hour", image: "hackathon.jpg", text: "Depois de um dia inteiro de conteúdos incríveis, é hora de socializar!" }
 
 # Statistic Block
 statisticBlock:
  - {count: "400", specialCharacter: "+", info: "participantes", detail: "de todo Brasil"}
  - {count: "12", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
  - {count: "16", specialCharacter: "+", info: "palestrantes", detail: "de todo Brasil"}
- - {count: "2", specialCharacter: "", info: "trilhas paralelas", detail: "mais lounge de entretenimento"}
+ # - {count: "2", specialCharacter: "", info: "trilhas paralelas", detail: "mais lounge de entretenimento"}
 
 # Latest News Block
 latestNewsTitle: "Últimas notícias"
 
 # Rockstar Speakers Block
-rockstarSpeakersCount: 3
+rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Palestrantes rockstar"
 rockstarSpeakersButtonText: "Veja todos os palestrantes"
 
@@ -129,7 +129,7 @@ ticketsOffers:
   price: "R$ 50"
   buyButtonLink: "https://meubilhete.com/devfestgoias"
   buyButtonText: "Compre agora"
-  ticketContentList: ["Camiseta", "Kit de boas vindas", "Brinde surpresa", "Café-da-manhã", "Coffee-break da tarde", "Android", "Wearables", "Tecnologias Web (Angular, HTML5, Polymer)", "Chrome", "APIs", "Google para iOS", "Internet das Coisas", "Google Apps/Drive", "Google Maps", "Google Analytics", "Google Cloud Platform", "Google Ads", "UX ou Estratégia de produtos"]
+  ticketContentList: ["Camiseta", "Kit de boas vindas", "Brinde surpresa", "Café-da-manhã", "Coffee-break da tarde"]
   validFrom: "2015-08-29T10:00"
   validThrough: "2015-09-27T23:59"
 # -
