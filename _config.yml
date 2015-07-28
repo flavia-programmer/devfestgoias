@@ -19,9 +19,9 @@ googleAnalyticsSiteUrl: ""
 organizerName: "GDG Goiânia"
 organizerAlternateName: "Google Developer Group Goiânia"
 organizerDescription: ""
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/organizers/logo-gdggyn.png"
-organizerLink: "http://go.gtugs.org/"
+organizerEmail: "contato@devfestgoias.com.br"
+organizerLogo: "/img/organizers/ogo-gdggyn.png"
+organizerLink: "https://plus.google.com/113297226237632387507"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers"
@@ -34,15 +34,11 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "http://bit.ly/dfua-c4p"
 c4sponsorsUrl: "mailto:contato@devfestgoias.com.br"
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/previous-events/", text: "Eventos Anteriores"}
-# - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Palestrantes"}
-# - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "Logística"}
  - {link: "https://developers.google.com", text: "Desenvolvedores"}
 bottomNavigationLinks:
@@ -58,7 +54,6 @@ heroButtons:
  - {url: "http://bit.ly/c4pdevfestgoias2015", text: "Seja um palestrante"}
  - {url: "mailto:contato@devfestgoias.com.br", text: "Seja um patrocinador"}
  - {url: "https://meubilhete.com/devfestgoias", text: "Inscreva-se"}
- 
 
 # About Block
 aboutTitle: "Sobre o GDG DevFest"
@@ -72,7 +67,6 @@ statisticBlock:
  - {count: "400", specialCharacter: "+", info: "participantes", detail: "de todo Brasil"}
  - {count: "12", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
  - {count: "16", specialCharacter: "+", info: "palestrantes", detail: "de todo Brasil"}
- # - {count: "2", specialCharacter: "", info: "trilhas paralelas", detail: "mais lounge de entretenimento"}
 
 # Latest News Block
 latestNewsTitle: "Últimas notícias"
