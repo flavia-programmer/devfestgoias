@@ -26,9 +26,9 @@ organizerLink: "https://plus.google.com/113297226237632387507"
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers"
 twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing.png"
+socialImageSrcTwitter: "/img/seo/sharing.png"
+socialImageSrcFacebook: "/img/seo/sharing.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
