@@ -42,9 +42,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logística"}
  - {link: "https://developers.google.com", text: "Desenvolvedores"}
 bottomNavigationLinks:
- - {link: "https://meubilhete.com/devfestgoias", text: "Inscreva-se"}
+ - {link: "https://doity.com.br/devfest-goias-2015/passo1", text: "Inscreva-se"}
 rightNavigationButtons:
- - {link: "https://meubilhete.com/devfestgoias", text: "Inscreva-se"}
+ - {link: "https://doity.com.br/devfest-goias-2015/passo1", text: "Inscreva-se"}
 
 # Hero Block
 heroTitle: "GDG DevFest <typeout> 2015"
@@ -53,7 +53,7 @@ typeoutTextValues: '"Goiás"'
 heroButtons:
  - {url: "http://bit.ly/c4pdevfestgoias2015", text: "Seja um palestrante"}
  - {url: "mailto:contato@devfestgoias.com.br", text: "Seja um patrocinador"}
- - {url: "https://meubilhete.com/devfestgoias", text: "Inscreva-se"}
+ - {url: "https://doity.com.br/devfest-goias-2015/passo1", text: "Inscreva-se"}
 
 # About Block
 aboutTitle: "Sobre o GDG DevFest"
@@ -120,8 +120,8 @@ ticketsOffers:
  -
   name: "Ingresso"
   price: "R$ 50"
-  buyButtonLink: ""
-  buyButtonText: "Inscrições em breve"
+  buyButtonLink: "https://doity.com.br/devfest-goias-2015/passo1"
+  buyButtonText: "Inscreva-se"
   ticketContentList: ["Camiseta", "Kit de boas vindas", "Brinde surpresa", "Café-da-manhã", "Coffee-break da tarde"]
   validFrom: "2015-08-29T10:00"
   validThrough: "2015-09-27T23:59"
