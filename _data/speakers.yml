@@ -16,6 +16,22 @@
     - {name: "github", link: "https://github.com/netomarin"}
 
 -
+  id: 2
+  name: "Wilson"
+  surname: "Mendes"
+  company: "GDE Angular"
+  title: ""
+  bio: "Google Developer Expert (GDE) AngularJS e organizador do GDG Salvador. Músico e designer nas horas vagas."
+  thumbnailUrl: wilson-mendes.jpeg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://plus.google.com/+WilsonMendes/about"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
+    - {name: "google-plus", link: "https://plus.google.com/+WilsonMendes"}
+    - {name: "github", link: "https://github.com/willmendesneto"}
+
+-
   id: 4
   name: "Marcelo"
   surname: "Quinta"
