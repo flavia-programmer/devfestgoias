@@ -12,7 +12,7 @@ baseurl: ""
 url: "http://devfestgoias.com.br/"
 # url: "http://bruno-rodrigues.github.io/devfestgoias/"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
+googleAnalyticsTrackingId: "UA-65856603-1"
 googleAnalyticsSiteUrl: ""
 
 # Organizer Info
