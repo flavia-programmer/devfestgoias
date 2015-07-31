@@ -1,7 +1,7 @@
 -
   group: "Patrocinador Platina"
   elements:
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.com/intl/en/about/", imageUrl: "google.svg"}
 # -
 #   group: "Patrocinador Ouro"
 #   elements:
@@ -11,12 +11,12 @@
 #   elements:
 #     - {name: "Em breve", description: "Em breve", link: "http://futuring.com.br/", imageUrl: "futuring.png"}
 #     - {name: "Vision Tecnologia", description: "Google", link: "http://www.vision-ti.com.br/", imageUrl: "vision.png"}
-# -
-#   group: "Apoio"
-#   elements:
-#     - {name: "ACIEG", description: "Associação Comercial Industrial e de Serviços do Estado de Goiás.", link: "http://acieg.com.br/", imageUrl: "acieg.jpg"}
-#    - {name: "Sindinformática", description: "Sindicato das Empresas de Informática, Telecomunicações e Similares do Estado de Goiás", link: "http://acieg.com.br/", imageUrl: "acieg.jpg"}
-
+-
+  group: "Apoio"
+  elements:
+    - { name: "Instituto de Informatica", description: "Instituto de Informatica UFG", link: "http://www.ufg.br/", imageUrl: "instituto-de-informatica-ufg.jpg" }
+    - {name: "Indexis", description: "Indexis", link: "http://idx.is/", imageUrl: "indexis.png"}
+    - {name: "TuddoWeb", description: "TuddoWeb", link: "http://tuddoweb.com.br/", imageUrl: "tuddoweb.png"}
 #-
 #  group: "With support of"
 #  elements:
