@@ -119,6 +119,8 @@ buyTicketsTitle: "Inscrições"
 ticketsOffers:
  -
   name: "Ingresso"
+  ribbon: "Limitado"
+  featured: true
   price: "R$ 50"
   buyButtonLink: "https://doity.com.br/devfest-goias-2015/passo1"
   buyButtonText: "Inscreva-se"
