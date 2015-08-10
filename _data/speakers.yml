@@ -59,3 +59,23 @@
   social:
     - {name: "twitter", link: "https://twitter.com/clovescardoso"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/clovescardoso"}
+
+-
+  id: 6
+  name: "Fernando"
+  surname: "Camargo"
+  company: "EEEC UFG"
+  title: "Mestrando"
+  bio: "Fernando Camargo é desenvolvedor mobile e web com Android, Java EE, Grails, Node.JS e front-end web. Atualmente, é mestrando em Engenharia de Computação na UFG. Desenvolve em Java desde começo de 2009 e para Android desde começo 2012. Possui OCJP 6, artigos publicados na Java Magazine, palestras e minicursos apresentados em eventos. Participou do primeiro App Clinic realizado na sede do Google no Brasil representando o aplicativo Soongz da Fibonacci Soluções Ágeis."
+  thumbnailUrl: fernando-camargo.jpg
+  rockstar: false
+  
+-
+  id: 7
+  name: "Walison"
+  surname: "Moreira"
+  company: "PC Sistemas"
+  title: ""
+  bio: "Gerente de Desenvolvimento na PC Sistemas e professor da UFG."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
