@@ -37,7 +37,7 @@
   surname: "Quinta"
   company: "GDE Android/Intel Innovator"
   title: ""
-  bio: 'Professor em Engenharia de Software na UFG, Google Developer Expert em Android, Intel Innovator, organizador do GDG Goiânia e palestrante no Brasil e exterior.'
+  bio: 'Professor em Engenharia de Software na UFG, Google Developer Expert em Android, Intel Innovator, organizador do GDG Goiânia e muito ativo na comunidade de desenvolvimento móvel.'
   thumbnailUrl: marcelo-quinta-gde.png
   rockstar: true
   ribbon:
@@ -46,3 +46,15 @@
     - {name: "google-plus", link: "https://plus.google.com/+MarceloQuinta"}
     - {name: "twitter", link: "https://twitter.com/mrquinta"}
     - {name: "github", link: "https://github.com/marceloquinta"}
+    
+  id: 5
+  name: "Clóves"
+  surname: "Cardoso"
+  company: "Capgemini"
+  title: "Interaction Designer"
+  bio: 'Designer de Interação há 6 anos, busca sempre entender o comportamento do usuário para planejar e projetar experiências. Já atuou em projetos web e mobile de pequeno, médio e grande porte. Nos últimos 12 meses colaborou no desenvolvimento de aplicativos móveis para a Caixa Ecônomica Federal.'
+  thumbnailUrl: cloves-cardoso.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/clovescardoso"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/clovescardoso"}
