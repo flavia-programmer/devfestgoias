@@ -79,3 +79,213 @@
   bio: "Gerente de Desenvolvimento na PC Sistemas e professor da UFG."
   thumbnailUrl: gdg-square.png
   rockstar: false
+  
+-
+  id: 8
+  name: "Dennes"
+  surname: "Venâncio"
+  company: "Requisito Tecnologia"
+  title: ""
+  bio: "Desenvolvedor Scala/Java na Requisito Tecnologia"
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 9
+  name: "Pedro"
+  surname: "Francisco de Sousa Neto"
+  company: "Máxima Sistemas"
+  title: ""
+  bio: "Desenvolvedor Móvel na Máxima Sistemas"
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 10
+  name: "Henrique"
+  surname: "Cardoso de Faria"
+  company: "Action Network"
+  title: ""
+  bio: "Desenvolvedor Web e trabalho remotamente para uma ONG americana chamada Action Network"
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 11
+  name: "Joselito"
+  surname: "Júnior"
+  company: "GDG Recife"
+  title: ""
+  bio: "GDG Organizer, entrepreneur, comedian and a trouble maker · ❤ chrome, angular, ionic and cordova"
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 12
+  name: "Fernando"
+  surname: "Rychlewski"
+  company: "@ 7COMm"
+  title: "Gerente de projetos"
+  bio: "Mais de 16 anos de desenvolvedor curioso, vulgo Nerd e mais de 8 anos de experiência em Análise e Gerência de Projetos de Sistemas Web, atua na elaboração de evoluções tecnológicas e Arquiteturas em sistemas de grandes corporações no mercado como Banco do Nordeste, Banco Industrial, Banco Luso Brasileiro, Banco Rendimento, Banco Original, Banco Brickell, Banco Fibra, Banco Pine, Atacadista ASsai, Carrefour, Coca-Cola, Bad Boy, MOfficer, Triton, Colcci, Forum, Mormaii, Toulon, etc...Também 12 anos de experiência com design gráfico (Tenho uma gráfica, meu Hobbie)."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 13
+  name: "Juliano"
+  surname: "Vince de Campos"
+  company: ""
+  title: ""
+  bio: "Estudante do curso de Sistema da informação. Formado no curso Técnico em informatica pelo senac. Goiania - GO, Certificado Oracle - Oracle certified java programmer, EXIN - Information Security Foundation based on ISO/27002"
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 14
+  name: "Marcelo"
+  surname: "David de Sousa"
+  company: "Guscla.com"
+  title: ""
+  bio: "Desenvolvedor desde 1990, consultor/assessor em Sistemas de Informação, idealizador e sócio da startup Guscla.com, um WebApp desenvolvido na Google App Engine."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 15
+  name: "Eduardo"
+  surname: "Carrara de Araújo"
+  company: "Intel"
+  title: "Software Analyst"
+  bio: "Formado em Engenharia da Computação, atua na área de desenvolvimento de software desde 2006, teve a oportunidade de utilizar diversas tecnologias nos ramos automobilístico, financeiros e de eletrônicos para consumo. Atualmente é evangelista técnico na Intel Software e colabora principalmente em projetos na área de educação e mobilidade com Android."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 16
+  name: "Francielly"
+  surname: "de Moraes Santos"
+  company: "GDG Goiânia"
+  title: "Desenvolvedora"
+  bio: ""
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+
+-
+  id: 17
+  name: "Eliseu"
+  surname: "Germano da Silva"
+  company: "EMBRAPA"
+  title: ""
+  bio: "Desenvolvedor de Software e graduando em Ciências da Computação na UFG, atualmente trabalhando com Desenvolvimento Web usando tecnologias Java. Têm experiência de desenvolvimento de aplicações para Chromecast, onde já desenvolveu um sistema para o monitoramento de pacientes domiciliares em que o dispositivo Chromecast foi utilizado como forma de apresentar na TV informações do dispositivo Android do paciente. Esse sistema foi desenvolvido e apresentado como um projeto final da graduação."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+
+-
+  id: 18
+  name: "Cleison"
+  surname: "Melo"
+  company: "Central IT"
+  title: "Gerente de Soluções"
+  bio: "Gestor de TI há 8 anos com especialização em desenvolvimento web. Tem experiência com gestão de equipes com metodologia ágil e desenvolvimento de produtos para a comunidade Open-Source."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 19
+  name: "Ally"
+  surname: "Barra"
+  company: "Central IT"
+  title: "Desenvolvedor"
+  bio: "Desenvolvedor Web a mais de 10 anos, desenvolvedor mobile a mais de 5 anos. Desenvolvedor do Sistec - sistema que faz a distribuição do sit-pass na grande goiânia. Desenvolvimento de sistema hibrido utilizando IONIC."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 20
+  name: "Immo"
+  surname: "Oliver Paul"
+  company: "Insper"
+  title: "Faculty for the Executive Education Program"
+  bio: "Suíço, 46 anos, multilíngue, Bacharel em Economia, Direito e Administração de Empresas e Mestre em Gestão Internacional pela Universidade de St. Gallen HSG, Suíça. Aficionado por tecnologia e pesquisador da longevidade, Immo está muito interessado no valor e na utilidade de novas formas de tecnologias de saúde móvel, bem como em suas aplicações e benefícios para o consumidor."
+  thumbnailUrl: gdg-square.png
+  rockstar: true
+  
+-
+  id: 21
+  name: "André"
+  surname: "Moraes"
+  company: "TuddoWeb"
+  title: ""
+  bio: "Sócio proprietário da TuddoWeb, trabalha com marketing digital desde 2009. Além de palestrante, é comunicador com foco em internet, onde lida diretamente com SEO, Google Ads e Analytics, Facebook Ads e métricas."
+  thumbnailUrl: gdg-square.png
+  rockstar: true
+  
+-
+  id: 22
+  name: "Cícero"
+  surname: "Duarte"
+  company: "GDG Goiânia"
+  title: "Desenvolvedor"
+  bio: ""
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 23
+  name: "Giancarlo"
+  surname: "Santana Batista Fleuri"
+  company: "UFG"
+  title: ""
+  bio: "Estudante e aficcionado por realidade virtual."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 24
+  name: "Gustavo"
+  surname: " Costa"
+  company: "Quanto Gastei"
+  title: ""
+  bio: "Gustavo Costa, Graduating in Information Systems, Front End and Mobile Developer, reference PhoneGap/Cordova in Brazil, have spoken at various events throughout Brazil, with only 16 years took second place in a national competition sponsored by BlackBerry, Google Organizer , BlackBerry Elite Member, has worked for startups developing mobile applications as ToNails, Plaay, Beautyx, 6 years working on web and 4 years focused on application development, active user in the open source community, and is the creator of FastGap, creator of the main PhoneGap of Facebook group with over 11,000 members, has created its http://BeMobile.ninja a course for development of APPs that happened in the main states of Brazil and create screencasts about development on your youtube channel http://youtube.com/user/gustavocostaw"
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 25
+  name: "Guilherme"
+  surname: "Rezende"
+  company: "IPSafe e Backenderia"
+  title: ""
+  bio: "Engenheiro de Software especializado em Backend, Microservices, APIs e DevOps. Formado em Ciência da Computação pela UCG, foi arquiteto e principal desenvolvedor do Campuse.ro, rede social da Campus Party. Palestrante em vários eventos de TI, fundador da IPsafe e da startup Backenderia, onde desenvolve backend para startups de todo o mundo."
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "http://linkedin.com/in/guilhermerezende/"}
+    - {name: "twitter", link: "https://twitter.com/gbrezende"}
+    - {name: "github", link: "https://github.com/guilhermebr"}
+    
+-
+  id: 26
+  name: "Michael"
+  surname: "Villander"
+  company: "UFG"
+  title: ""
+  bio: ""
+  thumbnailUrl: gdg-square.png
+  rockstar: false
+  
+-
+  id: 27
+  name: "Jean Lucas"
+  surname: "de Carvalho"
+  company: "Futuring"
+  title: ""
+  bio: "Desenvolvedor Frontend com foco na experiência do usuário e entusiasta de tecnologias Frontend, sendo um dos Organizadores do GDG Goiânia e criador do Frontend Goiás. Tendo palestrado em eventos como: Android Bootcamp, FLISOL, Join Community e GoGDG."
+  thumbnailUrl: jean-lucas.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/JeanLucasCarvalho"}
+    - {name: "twitter", link: "https://twitter.com/JLCarv"}
+    - {name: "github", link: "https://github.com/jlcarvalho"}
