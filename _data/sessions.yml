@@ -18,6 +18,13 @@
   subtype: presentation
   speakers: [5]
 -
+  id: 004
+  title: "A verdadeira Web 2.0: Web Components"
+  description:"1) O que são Web Components 2) Estado atual de implementação 3) Polymer e seus Polyfills 4) Como criar um Web Component 5) Vantagens sobre as demais tecnologias"
+  place: "Sala Alan Turing"
+  subtype: presentation
+  speakers: [10]
+-
   id: 309
   title: "Encerramento e Brindes"
   place: ""
