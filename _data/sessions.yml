@@ -25,6 +25,20 @@
   subtype: presentation
   speakers: [10]
 -
+  id: 005
+  title: "Play Game Service: Conheça as vantagens que o Google oferece"
+  description:" Beneficios que a Google oferece na Play Game Service e dicas de implementação, plataformas e plugins disponíveis para integração."
+  place: "Sala Alan Ada Byron"
+  subtype: presentation
+  speakers: [8]
+-
+  id: 006
+  title: "Android Design Support Library"
+  description:"Conheça a nova biblioteca de design e os seus componentes visuais para a plataforma android. Será apresentado os componentes NavigationView, Floating labels, Floating Action Button, Snackbar, Tabs e CoordinatorLayout."
+  place: "Sala Alan Ada Byron"
+  subtype: presentation
+  speakers: [9]
+-
   id: 309
   title: "Encerramento e Brindes"
   place: ""
