@@ -37,7 +37,7 @@
                         {% if slot != 404 %}
                             {% for session in site.data.sessions %}
                                 {% if slot == session.id and session.service == null %}
-                                <div class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                                     <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
@@ -46,7 +46,7 @@
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
                                                     {% if session_speaker == speaker.id %}
-                                                    <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: site.speakersThumbnailsFolder | append: speaker.thumbnailUrl }})"></div>
+                                                    <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
                                                     <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
                                                         <span class="speaker-position">{{ speaker.company }}</span>
                                                     </p>
@@ -62,6 +62,9 @@
                                     <div class="color-line"></div>
                                     <div class="slot-content">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                        {% if session.description != null %}
+                                        <p class="service-description">{{ session.description }}</p>
+                                        {% endif %}
                                     </div>
                                 </div>
                                 {% endif %}
