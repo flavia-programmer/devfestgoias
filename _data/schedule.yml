@@ -2,8 +2,10 @@
   date: "2014-09-27"
   dateReadable: "27 de Setembro"
   tracks:
-    - {title: "Sala Ada Byron", color: "#90be4e"}
+    - {title: "Auditório Luca Bastos", color: "#90be4e"}
     - {title: "Sala Alan Turing", color: "#03a9f4"}
+    - {title: "Sala Ada Byron", color: "#D32F2F"}
+    - {title: "Sala Margaret Hamilton", color: "#C2185B"}
   timeslots:
     - {
       startTime: "08:00",
