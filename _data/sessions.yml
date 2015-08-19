@@ -6,9 +6,10 @@
 -
   id: 307
   title: "Keynote - Novidades no desenvolvimento Android"
+  description:"O que há de mais novo para você desenvolver aplicativos Android de qualidade."
   place: "Auditório Luca Bastos"
+  subtype: presentation
   speakers: [1]
-  service: true
 -
   id: 308
   title: "Almoço"
