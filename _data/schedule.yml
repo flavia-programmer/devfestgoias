@@ -7,7 +7,7 @@
     - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [307, 503, 001]
+    	startTime: "07:30",
+    	endTime: "09:00",
+    	sessionIds: [307]
     }
