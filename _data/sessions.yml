@@ -1,20 +1,22 @@
 -
-  id: 306
+  id: 001
   title: "Credenciamento e coffee-break"
   place: ""
   service: true
 -
-  id: 307
+  id: 002
   title: "Keynote - Novidades no desenvolvimento Android"
   description:"O que há de mais novo para você desenvolver aplicativos Android de qualidade."
   place: "Auditório Luca Bastos"
   subtype: presentation
   speakers: [1]
 -
-  id: 308
-  title: "Almoço"
-  place: ""
-  service: true
+  id: 003
+  title: "Não existe equipe de UX"
+  description:"A experiência de usuário é de responsabilidade de todos relacionados ao projeto, inclusive você!"
+  place: "Auditório Luca Bastos"
+  subtype: presentation
+  speakers: [5]
 -
   id: 309
   title: "Encerramento e Brindes"
