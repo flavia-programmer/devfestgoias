@@ -20,6 +20,36 @@
   description: "Auditório Luca Bastos"
   subtype: presentation
   speakers: [5]
+-
+  id: 003
+  title: "A verdadeira Web 2.0: Web Components"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+-
+  id: 004
+  title: "Play Game Service: Conheça as vantagens que o Google oferece"
+  description: ""
+  subtype: presentation
+  speakers: [8]
+-
+  id: 005
+  title: "Android Design Support Library"
+  description: ""
+  subtype: presentation
+  speakers: [9]
+-
+  id: 006
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: []
+-
+  id: 00
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: []
   
 
 # -
