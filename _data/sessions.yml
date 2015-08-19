@@ -5,6 +5,10 @@
   service: true
   description: "A hora de já começar a fazer contatos com os melhores desenvolvedores de Goiás."
 -
+  id: 308
+  title: "Abertura"
+  place: "Auditório Luca Bastos"
+-
   id: 001
   title: "Keynote - Novidades do Android"
   description: ""
