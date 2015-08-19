@@ -5,6 +5,7 @@
     - {title: "Auditório Luca Bastos", color: "#90be4e"}
     - {title: "Sala Margareth Hamilton", color: "#03a9f4"}
     - {title: "Sala Alan Turing", color: "#29F1c9"}
+    - {title: "Sala Ada Lovelace", color: "#29F1c9"}
   timeslots:
     - {
     	startTime: "07:30",
