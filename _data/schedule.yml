@@ -2,12 +2,22 @@
   date: "2015-09-26"
   dateReadable: "26 de Setembro"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Auditório Luca Bastos", color: "#90be4e"}
+    - {title: "Sala Margareth Hamilton", color: "#03a9f4"}
+    - {title: "Sala Alan Turing", color: "#29F1c9"}
   timeslots:
     - {
     	startTime: "07:30",
     	endTime: "09:00",
     	sessionIds: [307]
+    }
+    - {
+    	startTime: "08:45",
+    	endTime: "09:00",
+    	sessionIds: [308]
+    }
+    - {
+    	startTime: "09:00",
+    	endTime: "10:00",
+    	sessionIds: [1]
     }
