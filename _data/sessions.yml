@@ -1,23 +1,15 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Credenciamento e Coffee-break"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
+  description: "A hora de já começar a fazer contatos com os melhores desenvolvedores de Goiás."
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [4, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Keynote - Novidades do Android"
+  description: ""
+  subtype: presentation
+  speakers: [1]
   
 
 # -
