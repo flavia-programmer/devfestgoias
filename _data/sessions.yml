@@ -5,8 +5,9 @@
   service: true
 -
   id: 307
-  title: "Abertura"
-  place: ""
+  title: "Keynote - Novidades no desenvolvimento Android"
+  place: "Auditório Luca Bastos"
+  speakers: [1]
   service: true
 -
   id: 308
